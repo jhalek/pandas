@@ -1,0 +1,5 @@
+1) More spending doesn't equate to a better overall passing percentage, as described by looking at the budget per student.
+
+2) Total student group sizes is important. Group sizes larger than 2k have a significant drop in overall passing percentage. 
+
+3) Charter schools have a much higher passing rate than District schools.
